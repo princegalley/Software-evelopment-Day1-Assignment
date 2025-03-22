@@ -1,4 +1,4 @@
-# Software-evelopment-Day1-Assignment
+# Software-Development-Day1-Assignment
 # SE_Day1
 # Software Engineering Day1 Assignment
 # Part 1: Introduction to Software Engineering
